@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import WeatherInfo from "./WeatherInfo";
+import "./index.css";
 import "./App.css";
 
 const Weather = () => {
@@ -17,7 +18,7 @@ const Weather = () => {
 
   return (
     <div>
-      <h1>Weather React Search Engine</h1>
+      <h1>React Weather Search App</h1>
       <input
         type="text"
         placeholder="Enter a city..."
