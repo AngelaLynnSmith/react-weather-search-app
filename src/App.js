@@ -25,7 +25,7 @@ const App = () => {
 				and is{" "}
 				<a
 					rel="noreferrer"
-					href="https://netlify.com"
+					href="https://react-weather-search-app-2024.netlify.app/"
 					target="_blank">
 					{" "}
 					hosted on Netlify.
