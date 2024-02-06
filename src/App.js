@@ -20,15 +20,15 @@ const App = () => {
 					rel="noreferrer"
 					href="https://github.com/AngelaLynnSmith/react-weather-search-app"
 					target="_blank">
-					GitHub
+					GitHub,
 				</a>{" "}
-				and is{" "}
+				and is hosted on{" "}
 				<a
 					rel="noreferrer"
 					href="https://react-weather-search-app-2024.netlify.app/"
 					target="_blank">
 					{" "}
-					hosted on Netlify.
+					Netlify.
 				</a>
 			</footer>
 		</div>
