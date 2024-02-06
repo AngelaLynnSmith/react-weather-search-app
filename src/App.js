@@ -5,22 +5,24 @@ const App = () => {
 	return (
 		<div>
 			<Weather />
+			<br></br>
+			<br></br>
 			<footer>
-				This project was coded by
+				This project was coded by{" "}
 				<a
 					rel="noreferrer"
 					href="https://github.com/AngelaLynnSmith"
 					target="_blank">
-					Angela Lynn Smith
-				</a>
-				, is open-sourced on
+					Angela Lynn Smith,
+				</a>{" "}
+				is open-sourced on{" "}
 				<a
 					rel="noreferrer"
 					href="https://github.com/AngelaLynnSmith/react-weather-search-app"
 					target="_blank">
 					GitHub
 				</a>{" "}
-				and is
+				and is{" "}
 				<a
 					rel="noreferrer"
 					href="https://netlify.com"
